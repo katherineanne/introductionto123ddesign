@@ -70,6 +70,7 @@ Once the objects have been selected a large grid will appear with dots along the
 **Grouping Objects**
 
 The grouping tool allows you to select objects you want to link so that they move together. (The other options under the grouping dropdown menu allow you to ungroup objects).
+
 ![image alt text](group.png)
 
 Once objects are grouped they will automatically move, scale, etc together. If you group too many objects together at the same time you may experience some lag with the program, so if you want the objects to stay together permanently, you may want to select the merge tool instead.
@@ -109,11 +110,13 @@ The first object you select will be the one that remains, while the second objec
 **Intersect objects**
 
 Select the intersect tool from the combine menu. 
+
 ![image alt text](intersect.png)
 
 Like merge and subtract, you select two objects. When you hit enter, it will only keep the sections of the objects that overlap, and delete everything else. 
 
-![image alt text](image_3.png)![image alt text](image_4.png)
+![image alt text](image_3.png) 
+![image alt text](image_4.png)
 
 **Editing Faces, Edges and Vertices**
 
@@ -173,6 +176,7 @@ Or you can create a circular pattern.
 ![image alt text](patterncircle.png)
 
 In this example I used an edge from the rectangular sketch as my axis and patterned several circles around it. 
+
 ![image alt text](patterncircle2.png)
 
 You can create a mirror pattern. Here I've indicated the side of the rectangle sketch to act as my mirror.
@@ -217,7 +221,9 @@ The spline option allows you to drop points just like polyline, but will automat
 
 ![image alt text](image_9.png)![image alt text](image_10.png)
 
-![image alt text](image_11.png)The two point arc allows you to put down two points on the grid: the centre of an imaginary circle, and the exterior of the circle (to indicate the circle’s radius distance). Once these points are selected it will allow you to draw a partial circle of arc using the radius you’ve selected as a guide.
+![image alt text](image_11.png)
+
+The two point arc allows you to put down two points on the grid: the centre of an imaginary circle, and the exterior of the circle (to indicate the circle’s radius distance). Once these points are selected it will allow you to draw a partial circle of arc using the radius you’ve selected as a guide.
 
 ![image alt text](image_12.png)![image alt text](image_13.png)
 
@@ -256,10 +262,15 @@ You can also adjust the shape of your extruded sketch using the rotation tool.
 **Sweep a Sketch**
 
 You can design your own solid by creating a path, then inserting a profile (or closed stetch) to indicate the shape of the new solid.
+
 ![image alt text](sweep.png)
+
 In this example I used an arch for my path and a circle for my profile.
+
 ![image alt text](sweep2.png)
+
 The finished shape combined the two sketches. 
+
 ![image alt text](sweep3.png)
 
 **Revolve a Sketch**
@@ -269,6 +280,7 @@ You can also design your own solid by revolving a sketch around an axis. In this
 ![image alt text](revolve.png)
 
 The side of the square that is highlighted in yellow is acting as my axis. I can then use the rotary tool to wrap the other sketch around the highlighted axis, or I can indicate how many degrees I want the shape to wrap around the axis in the popup menu. 
+
 ![image alt text](revolve2.png)
 ![image alt text](revolve3.png)
 
