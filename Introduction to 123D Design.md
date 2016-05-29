@@ -116,6 +116,7 @@ Select the intersect tool from the combine menu.
 Like merge and subtract, you select two objects. When you hit enter, it will only keep the sections of the objects that overlap, and delete everything else. 
 
 ![image alt text](image_3.png) 
+
 ![image alt text](image_4.png)
 
 **Editing Faces, Edges and Vertices**
@@ -123,16 +124,19 @@ Like merge and subtract, you select two objects. When you hit enter, it will onl
 The press pull tool allows you to expand an object by dragging one face.
 
 ![image alt text](presspull.png)
+
 ![image alt text](presspull2.png)
 
 The tweak tool brings up the move and rotate tools to adjust one face edge, or vertex. The rest of the share will try to adjust with the face or edge you are adjusting. Only use tweak for small edits or you could crash the program.
 
 ![image alt text](tweak.png) 
+
 ![image alt text](tweak2.png)
 
 The fillet tool allows you to round down edges. You can round multiple edges at the same time by holding your ctrl button (or command on a Mac) while clicking on the edges you want to select. You can adjust the filleted edges using the arrow or the menu that will pop up below. 
 
 ![image alt text](fillet.png)
+
 ![image alt text](fillet2.png)
 
 Chamfer works essentially the same as fillet, but instead of rounding the edge it cuts it at a 45 degree angle.
@@ -142,6 +146,7 @@ Chamfer works essentially the same as fillet, but instead of rounding the edge i
 The shell tool will delete the face you select so that your object becomes hollow. You can also adjust the width of your remaining shell or select which part of the shell you want to adjust (inside or outside).
 
 ![image alt text](shell.png)
+
 ![image alt text](shell2.png)
 
 You can split a solid object using a line, sketch or another object.
@@ -151,20 +156,25 @@ You can split a solid object using a line, sketch or another object.
 In this example, I used a sketch of a circle (placed underneath a solid cube) to cut out and then remove a circular section of the cube. You are able to select multiple objects to split.
 
 ![image alt text](splitsolid2.png)
+
 ![image alt text](splitsolid3.png)
 
 Split face works much like split object, except it only cuts through only one face of the object. You can then push/pull or tweak the multiple sections of that face. Below split a circle out of one face, then pulled the surrounding sections to be taller than the rest of the face.
 
 ![image alt text](splitface.png)
+
 ![image alt text](splitface2.png)
+
 ![image alt text](splitface3.png)
 
 **Create a Pattern of Solids**
 
 You can also create a pattern of solids through a variety of methods.
+
 ![image alt text](pattern.png)
 
 You need to indicate which solid you want to use for your pattern and what direction you want the pattern of shapes to appear. 
+
 ![image alt text](patternrectangle.png)
 
 You can create a pattern based on a rectangle. In this example I used the sketch of a rectangle to indicate the direction of my pattern.
@@ -182,6 +192,7 @@ In this example I used an edge from the rectangular sketch as my axis and patter
 You can create a mirror pattern. Here I've indicated the side of the rectangle sketch to act as my mirror.
 
 ![image alt text](patternmirror.png)
+
 ![image alt text](patternmirror2.png)
 
 You can also pattern along a path. I used the rectangle sketch as my path. I used the yellow arrow to drag the pattern of cubes along the rectagular path
@@ -215,17 +226,23 @@ Or you can build your own sketch using a variety of sketch options. For each of 
 
 The Polyline option allows you to make any shape by clicking on the grid where you want to put down a corner. You can draw straight lines by clicking from point to point, or you can drag and click to add an arc to your line. You can adjust the line length or arc degree by adjusting the cm or degree in the pop-up menus. Hit the esc button or click the green check mark to exit sketch mode. It is only considered a finished sketch if it is enclosed and the enclosed area is coloured light blue. 
 
- ![image alt text](image_7.png)![image alt text](image_8.png)
+ ![image alt text](image_7.png)
+ 
+ ![image alt text](image_8.png)
 
 The spline option allows you to drop points just like polyline, but will automatically curve the line between each point. Spline doesn’t provide a pop-up menu for you to adjust degree or length of line by number.
 
-![image alt text](image_9.png)![image alt text](image_10.png)
+![image alt text](image_9.png)
+
+![image alt text](image_10.png)
 
 ![image alt text](image_11.png)
 
 The two point arc allows you to put down two points on the grid: the centre of an imaginary circle, and the exterior of the circle (to indicate the circle’s radius distance). Once these points are selected it will allow you to draw a partial circle of arc using the radius you’ve selected as a guide.
 
-![image alt text](image_12.png)![image alt text](image_13.png)
+![image alt text](image_12.png)
+
+![image alt text](image_13.png)
 
 Three point arc essentially allows you to put down two points, forming a line, then allows you to pull on a third point, somewhere along the line, to bend it into an arc. 
 
@@ -282,6 +299,7 @@ You can also design your own solid by revolving a sketch around an axis. In this
 The side of the square that is highlighted in yellow is acting as my axis. I can then use the rotary tool to wrap the other sketch around the highlighted axis, or I can indicate how many degrees I want the shape to wrap around the axis in the popup menu. 
 
 ![image alt text](revolve2.png)
+
 ![image alt text](revolve3.png)
 
 **Loft Sketch or Solids**
@@ -291,6 +309,7 @@ The side of the square that is highlighted in yellow is acting as my axis. I can
 Lofting several sketches or solids will connect them by forming a skin between chosen shapes. In this example, I've places the sketch of a circle above a rectangular sketch, then connected them using the loft option. 
 
 ![image alt text](loft2.png)
+
 ![image alt text](loft3.png)
 
 **Combining Sketches and Solids**
