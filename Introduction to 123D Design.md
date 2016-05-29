@@ -238,7 +238,7 @@ The spline option allows you to drop points just like polyline, but will automat
 
 ![image alt text](image_11.png)
 
-The two point arc allows you to put down two points on the grid: the centre of an imaginary circle, and the exterior of the circle (to indicate the circle’s radius distance). Once these points are selected it will allow you to draw a partial circle of arc using the radius you’ve selected as a guide.
+The two point arc allows you to put down two points on the grid: the centre of an imaginary circle, and the exterior of the circle (to indicate the circle’s radius distance). Once these points are selected it will allow you to draw a partial circle or arc using the radius you’ve selected as a guide.
 
 ![image alt text](image_12.png)
 
