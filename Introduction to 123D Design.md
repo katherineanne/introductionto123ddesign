@@ -4,9 +4,7 @@
 
 Orbit - Right click as you move your mouse.
 
-Zoom - Scroll your mouse or trackpad. 
-
-Up = zoom in, Down = zoom out.
+Zoom - Scroll your mouse or trackpad (Up = zoom in, Down = zoom out).
 
 Left click - Pan your view.
 
