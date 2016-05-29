@@ -2,13 +2,13 @@
 
 **Moving Your Perspective**
 
-Orbit - Right click as you move your mouse
+Orbit - Right click as you move your mouse.
 
 Zoom - Scroll your mouse or trackpad. 
 
-Up = zoom in, Down = zoom out
+Up = zoom in, Down = zoom out.
 
-Left click - Pan your view
+Left click - Pan your view.
 
 Or select the orbit, panning, or zoom option from the right hand menu. You can also adjust the direction of your view or hit the home button to return to your original view of the grid.
 
@@ -20,13 +20,13 @@ Or select the orbit, panning, or zoom option from the right hand menu. You can a
 
 **Moving an Object**
 
-Circle in the center of the object = freely move object along all 3 axes, depending on what perspective you are looking at the obiect from
+Circle in the center of the object = freely move object along all 3 axes, depending on what perspective you are looking at the obiect from.
 
-White isolated arrows = slide object along one axis
+White isolated arrows = slide object along one axis.
 
-Semi-transparent squares = move object across two axes at once (ex. X and Z, but not Y)
+Semi-transparent squares = move object across two axes at once (ex. X and Z, but not Y).
 
-Radial dials (Outside circle with arrows on either side) = rotate object
+Radial dials (Outside circle with arrows on either side) = rotate object.
 
 A white box will pop up alongside the object whenever you select one of these movement options. This allows you to control how much you want to move the object by mm or degree. 
   
@@ -43,13 +43,13 @@ Click on the white arrow (which will then turn yellow) and drag to make your sha
 
 ![image alt text](scale2.png)
 
-To scale an object non-uniformly select the scale dropdown menu from the grey box, then select non uniform. You will then be able to scale your shape along the X, Y and Z vertices by dragging the arrows or by adjusting the factor number. Non-uniform scale can be quite useful for curved objects (ex. sphere)
+To scale an object non-uniformly select the scale dropdown menu from the grey box, then select non uniform. You will then be able to scale your shape along the X, Y and Z vertices by dragging the arrows or by adjusting the factor number. Non-uniform scale can be quite useful for curved objects (ex. sphere).
 
 ![image alt text](image_2.png)
 
 **Smart Scale**
 
-Select smart scale from drop-down menu
+Select smart scale from drop-down menu.
 
 ![image alt text](smartscale.png)
 
@@ -195,7 +195,7 @@ You can create a mirror pattern. Here I've indicated the side of the rectangle s
 
 ![image alt text](patternmirror2.png)
 
-You can also pattern along a path. I used the rectangle sketch as my path. I used the yellow arrow to drag the pattern of cubes along the rectagular path
+You can also pattern along a path. I used the rectangle sketch as my path. I used the yellow arrow to drag the pattern of cubes along the rectagular path.
 
 ![image alt text](patternpath.png)
 
@@ -216,7 +216,7 @@ You will need to first select the face you want to project onto, at which point 
 
 **Starting from a Sketch**
 
-You can start with a primitive sketch from the primitives menu. You can set these on any flat surface (ex. On the grid or on the side of an object)
+You can start with a primitive sketch from the primitives menu. You can set these on any flat surface (ex. On the grid or on the side of an object).
 
 ![image alt text](image_5.png)
 
@@ -314,7 +314,9 @@ Lofting several sketches or solids will connect them by forming a skin between c
 
 **Combining Sketches and Solids**
 
-When you extrude a sketch into or past an existing solid it will automatically try to subtract the part of the solid it is overlapping with. However, you can choose to merge or intersect the shapes. Or you can ask the program to make it into a new solid, in which case it will just hide the original shape inside the new shape, so the two shapes can be separated later. ![image alt text](image_17.png)
+When you extrude a sketch into or past an existing solid it will automatically try to subtract the part of the solid it is overlapping with. However, you can choose to merge or intersect the shapes. Or you can ask the program to make it into a new solid, in which case it will just hide the original shape inside the new shape, so the two shapes can be separated later. 
+
+![image alt text](image_17.png)
 
 **Measuring your object**
 
